@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding Kitchen Chemistry Homework 8.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-287-kitchen-chemistry-spring-2009/c5f423ad5b768f9de68a7b2dbd9645a8_MITES_287S09_assn08_Week08.pdf
+file: /media/courses/es-287-kitchen-chemistry-spring-2009/c5f423ad5b768f9de68a7b2dbd9645a8_MITES_287S09_assn08_Week08.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Kitchen Chemistry Homework 8
 uid: c5f423ad-5b76-8f9d-e68a-7b2dbd9645a8

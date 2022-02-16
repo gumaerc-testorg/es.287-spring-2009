@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding Creme Brulee.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-287-kitchen-chemistry-spring-2009/8a90b7bea8d85f7f7d092f4542a5839e_MITES_287S09_read16.pdf
+file: /media/courses/es-287-kitchen-chemistry-spring-2009/8a90b7bea8d85f7f7d092f4542a5839e_MITES_287S09_read16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Creme Brulee
 uid: 8a90b7be-a8d8-5f7f-7d09-2f4542a5839e

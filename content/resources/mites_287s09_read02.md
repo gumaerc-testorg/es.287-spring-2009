@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding salsa.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-287-kitchen-chemistry-spring-2009/f88ee1d01cb17bc4a7a8f851f5407786_MITES_287S09_read02.pdf
+file: /media/courses/es-287-kitchen-chemistry-spring-2009/f88ee1d01cb17bc4a7a8f851f5407786_MITES_287S09_read02.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Salsa
 uid: f88ee1d0-1cb1-7bc4-a7a8-f851f5407786
