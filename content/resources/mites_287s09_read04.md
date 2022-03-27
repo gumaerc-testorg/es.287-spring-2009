@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 79b065d3-500d-1f02-a368-fb60f6de75c5
 resourcetype: Document
 title: Buttermilk Pancakes
 uid: 1be104f1-23ad-4e1f-ee86-531e055cdd40

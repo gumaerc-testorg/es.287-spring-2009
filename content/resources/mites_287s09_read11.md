@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 79b065d3-500d-1f02-a368-fb60f6de75c5
 resourcetype: Document
 title: Molecular Gastronomy experiments
 uid: 1d3f29a8-2d72-1b95-87f4-957e9eaf560d

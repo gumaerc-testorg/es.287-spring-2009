@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ee64e16-4a4b-fd24-8fb1-8b7e5e7fcb6c
 resourcetype: Document
 title: Kitchen Chemistry Homework 12
 uid: f0539b26-1b0f-7bdb-b92e-b9b3afa6e9dc

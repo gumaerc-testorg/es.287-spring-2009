@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 79b065d3-500d-1f02-a368-fb60f6de75c5
 resourcetype: Document
 title: Scottish Raison Scones
 uid: 11c7f650-01cf-0293-89e9-b96e7c62b55b

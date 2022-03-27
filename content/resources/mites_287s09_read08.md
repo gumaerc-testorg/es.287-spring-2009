@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 79b065d3-500d-1f02-a368-fb60f6de75c5
 resourcetype: Document
 title: Strawberry Jam
 uid: e7d4615f-3fb0-a2a7-d773-3cc68ac40cde
