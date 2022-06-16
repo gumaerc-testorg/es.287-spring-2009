@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the readings assigned for each session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -37,7 +38,7 @@ Guacamole, salsa, and quesadillas
 {{< tdopen >}}
 
 
-Recipes: Guacamole ([PDF]({{< baseurl >}}/resources/mites_287s09_read01)), Salsa ([PDF]({{< baseurl >}}/resources/mites_287s09_read02))
+Recipes: Guacamole ({{% resource_link 51524178-16e0-e6a8-1da8-d4c4d7d039e1 "PDF" %}}), Salsa ({{% resource_link f88ee1d0-1cb1-7bc4-a7a8-f851f5407786 "PDF" %}})
 
 From the text: pp. 276-277, 310-12, 337, 352-3, 383, 407, 418-421, and 481,548.
 
@@ -51,7 +52,7 @@ Research Articles: The first two were picked as examples of current research on 
 
 \- Scoville, W. L. "A Note on Capsicums." _J Am Pharmacists Assoc_ 1 (1912): 453-4.
 
-[Additional Readings]({{< baseurl >}}/pages/related-resources#Guacamole,_Salsa,_and_Quesadillas)
+{{% resource_link e75a1140-5ce5-2438-6e12-07c3ba94b7a7 "Additional Readings" "#Guacamole,_Salsa,_and_Quesadillas" %}}
 
 
 {{< tdclose >}}
@@ -67,7 +68,7 @@ Cookie - Death by chocolate
 {{< tdopen >}}
 
 
-Recipe: "Death by Chocolate" Cookies ([PDF]({{< baseurl >}}/resources/mites_287s09_read03))
+Recipe: "Death by Chocolate" Cookies ({{% resource_link c25f4eb6-c886-33c3-3950-3c32262d6495 "PDF" %}})
 
 From the text: pp. 694-712, 430-433, 647-52, 674-675, and 533-34.
 
@@ -77,7 +78,7 @@ Research Articles:
 
 \- Rezzi, S., et al. "[Human Metabolic Phenotypes Link Directly to Specific Dietary Preferences in Healthy Individuals](http://www.ncbi.nlm.nih.gov/pubmed/17929959)." _J Proteome Res_ 6 (2007): 4469-77.
 
-[Additional Readings]({{< baseurl >}}/pages/related-resources#Chocolate)
+{{% resource_link e75a1140-5ce5-2438-6e12-07c3ba94b7a7 "Additional Readings" "#Chocolate" %}}
 
 
 {{< tdclose >}}
@@ -93,11 +94,11 @@ Pancakes
 {{< tdopen >}}
 
 
-Recipe: Buttermilk Pancakes ([PDF]({{< baseurl >}}/resources/mites_287s09_read04))
+Recipe: Buttermilk Pancakes ({{% resource_link 1be104f1-23ad-4e1f-ee86-531e055cdd40 "PDF" %}})
 
 From the text: pp. 553-54, 46-50, 551, and 668-69.
 
-[Additional Readings]({{< baseurl >}}/pages/related-resources#Pancakes)
+{{% resource_link e75a1140-5ce5-2438-6e12-07c3ba94b7a7 "Additional Readings" "#Pancakes" %}}
 
 
 {{< tdclose >}}
@@ -113,7 +114,7 @@ Bread
 {{< tdopen >}}
 
 
-Recipe: Challah (Braided Bread) ([PDF]({{< baseurl >}}/resources/mites_287s09_read05))
+Recipe: Challah (Braided Bread) ({{% resource_link 1d65750b-84d8-286f-f0ae-1c62448a253b "PDF" %}})
 
 From the text: pp. 515-550.
 
@@ -129,7 +130,7 @@ Research Article on Salt:
 
 \- We will be having a salt tasting, so here is an example of a research paper on that topic: Condrasky, M. D. "[Preference for Salts in Cooking as Perceived by Sensory Panelists](http://www.ingentaconnect.com/content/bsc/fri/2006/00000017/00000004/art00002)." _J of Foodservice_ 17 (2006): 166-72.
 
-[Additional Readings]({{< baseurl >}}/pages/related-resources#Bread)
+{{% resource_link e75a1140-5ce5-2438-6e12-07c3ba94b7a7 "Additional Readings" "#Bread" %}}
 
 
 {{< tdclose >}}
@@ -145,7 +146,7 @@ Scones and coffee
 {{< tdopen >}}
 
 
-Recipe: Scottish Raisin Scones ([PDF]({{< baseurl >}}/resources/mites_287s09_read06))
+Recipe: Scottish Raisin Scones ({{% resource_link 11c7f650-01cf-0293-89e9-b96e7c62b55b "PDF" %}})
 
 From the text: pp. 549-50, 386-87, and 433-41.
 
@@ -159,7 +160,7 @@ Looking at the flavor profile of coffee beans, two papers – one that looks at 
 
 \- Müller, C., S. Hemmersbach, G. van't Slot, and T. Hofmann. "[Synthesis and Structure Determination of Covalent Conjugates Formed from the Sulfury-Roasty-Smelling 2-Furfurylthiol and Di- or Trihydroxybenzenes and Their Identification in Coffee Brew](http://www.ncbi.nlm.nih.gov/pubmed/17177544)." _J Agric Food Chem_ 54 (2006): 10076-85.
 
-[Additional Readings]({{< baseurl >}}/pages/related-resources#Scones)
+{{% resource_link e75a1140-5ce5-2438-6e12-07c3ba94b7a7 "Additional Readings" "#Scones" %}}
 
 
 {{< tdclose >}}
@@ -175,11 +176,11 @@ Meringues
 {{< tdopen >}}
 
 
-Recipe: Mile-High Lemon Meringue Tarts ([PDF]({{< baseurl >}}/resources/mites_287s09_read07))
+Recipe: Mile-High Lemon Meringue Tarts ({{% resource_link 2c10ce26-1480-6d19-22cc-aabe7a6944ee "PDF" %}})
 
 From the text: pp. 100-109.
 
-[Additional Readings]({{< baseurl >}}/pages/related-resources#Meringues)
+{{% resource_link e75a1140-5ce5-2438-6e12-07c3ba94b7a7 "Additional Readings" "#Meringues" %}}
 
 
 {{< tdclose >}}
@@ -195,11 +196,11 @@ Jams and Jellies
 {{< tdopen >}}
 
 
-Recipe: Jam ([PDF]({{< baseurl >}}/resources/mites_287s09_read08))
+Recipe: Jam ({{% resource_link e7d4615f-3fb0-a2a7-d773-3cc68ac40cde "PDF" %}})
 
 From the text: pp. 296, 605-614.
 
-[Additional Readings]({{< baseurl >}}/pages/related-resources#Jams)
+{{% resource_link e75a1140-5ce5-2438-6e12-07c3ba94b7a7 "Additional Readings" "#Jams" %}}
 
 
 {{< tdclose >}}
@@ -215,7 +216,7 @@ Three bean chili and cornbread
 {{< tdopen >}}
 
 
-Recipe: Three Bean Chili ([PDF]({{< baseurl >}}/resources/mites_287s09_read09))
+Recipe: Three Bean Chili ({{% resource_link 2621e423-9a3b-013a-7020-b94fd9a62a27 "PDF" %}})
 
 From the text: pp. 327-328, 314-315, 309, 483-501.
 
@@ -225,7 +226,7 @@ Research Articles:
 
 \- Medical study on gas identification of flatus. Suarez, F. L., J. Springfield, and M. D. Levitt. "[Identification of Gases Responsible for the Odour of Human Flatus and Evaluation of Device Purported to Reduce this Odour](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1727181/)." _Gut_ 43 (1998): 100-104.
 
-[Additional Readings]({{< baseurl >}}/pages/related-resources#Chili)
+{{% resource_link e75a1140-5ce5-2438-6e12-07c3ba94b7a7 "Additional Readings" "#Chili" %}}
 
 
 {{< tdclose >}}
@@ -241,11 +242,11 @@ Cheese
 {{< tdopen >}}
 
 
-Recipe: Lemon Cheese ([PDF]({{< baseurl >}}/resources/mites_287s09_read10))
+Recipe: Lemon Cheese ({{% resource_link 9a39154c-55d7-f66b-3d69-0902a74236ce "PDF" %}})
 
 From the text: pp. 51-67.
 
-[Additional Readings]({{< baseurl >}}/pages/related-resources#Cheese)
+{{% resource_link e75a1140-5ce5-2438-6e12-07c3ba94b7a7 "Additional Readings" "#Cheese" %}}
 
 
 {{< tdclose >}}
@@ -261,9 +262,9 @@ Molecular gastronomy
 {{< tdopen >}}
 
 
-Recipes: Cola Caviar and Spherical Mango Gnocchi ([PDF]({{< baseurl >}}/resources/mites_287s09_read11))
+Recipes: Cola Caviar and Spherical Mango Gnocchi ({{% resource_link 1d3f29a8-2d72-1b95-87f4-957e9eaf560d "PDF" %}})
 
-[Additional Readings]({{< baseurl >}}/pages/related-resources#Molecular)
+{{% resource_link e75a1140-5ce5-2438-6e12-07c3ba94b7a7 "Additional Readings" "#Molecular" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -277,7 +278,7 @@ Wacky cake
 {{< tdopen >}}
 
 
-Recipe: Wacky Cake ([PDF]({{< baseurl >}}/resources/mites_287s09_read12))
+Recipe: Wacky Cake ({{% resource_link 4432388f-caf5-e3e9-3dc6-2e36bae51f2d "PDF" %}})
 
 Find the parts in the book relevant to today's recipe!
 
@@ -295,7 +296,7 @@ Ice cream
 {{< tdopen >}}
 
 
-Recipe: Liquid Nitrogen Ice Cream ([PDF]({{< baseurl >}}/resources/mites_287s09_read13))
+Recipe: Liquid Nitrogen Ice Cream ({{% resource_link ef44f422-caaa-171c-62c5-4a9c5a9b1716 "PDF" %}})
 
 From the text: pp. 39-44.
 
@@ -307,7 +308,7 @@ Research Articles:
 
 \- Goff, H. D. "[Colloidal Aspects of Ice Cream - A Review](http://dx.doi.org/10.1016/S0958-6946(97)00040-X)." _International Diary Journal_ 7 (1997): 363-73.
 
-[Additional Readings]({{< baseurl >}}/pages/related-resources#Ice)
+{{% resource_link e75a1140-5ce5-2438-6e12-07c3ba94b7a7 "Additional Readings" "#Ice" %}}
 
 
 {{< tdclose >}}
@@ -335,11 +336,11 @@ Meatballs and spaghetti
 {{< tdopen >}}
 
 
-Recipes: Meatballs ([PDF]({{< baseurl >}}/resources/mites_287s09_read14)), Marinara Sauce ([PDF]({{< baseurl >}}/resources/mites_287s09_read15)), and Creme Brulee ([PDF]({{< baseurl >}}/resources/mites_287s09_read16))
+Recipes: Meatballs ({{% resource_link ff07873f-da25-3a49-2155-060c2713f993 "PDF" %}}), Marinara Sauce ({{% resource_link f55ce891-2d7a-47ba-635e-46cac466f92d "PDF" %}}), and Creme Brulee ({{% resource_link 8a90b7be-a8d8-5f7f-7d09-2f4542a5839e "PDF" %}})
 
 From the text: pp. 571-577, 623-24, and 677-787.
 
-[Additional Readings]({{< baseurl >}}/pages/related-resources#Spaghetti)
+{{% resource_link e75a1140-5ce5-2438-6e12-07c3ba94b7a7 "Additional Readings" "#Spaghetti" %}}
 
 
 {{< tdclose >}}
