@@ -5,6 +5,7 @@ file: /courses/es-287-kitchen-chemistry-spring-2009/11c7f65001cf029389e9b96e7c62
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Scottish Raison Scones
 uid: 11c7f650-01cf-0293-89e9-b96e7c62b55b
 ---
 This file contains information regarding Scottish Raison Scones.
-

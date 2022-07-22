@@ -5,6 +5,7 @@ file: /courses/es-287-kitchen-chemistry-spring-2009/ff07873fda253a492155060c2713
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Beef Meatballs
 uid: ff07873f-da25-3a49-2155-060c2713f993
 ---
 This file contains information regarding Beef Meatballs.
-

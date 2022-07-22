@@ -5,6 +5,7 @@ file: /courses/es-287-kitchen-chemistry-spring-2009/f55ce8912d7a47ba635e46cac466
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Marinara Saucse
 uid: f55ce891-2d7a-47ba-635e-46cac466f92d
 ---
 This file contains information regarding Marinara Saucse
-

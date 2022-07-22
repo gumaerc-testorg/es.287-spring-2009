@@ -5,6 +5,7 @@ file: /courses/es-287-kitchen-chemistry-spring-2009/43bd67c480f7b0ab0c2177815bbf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Kitchen Chemistry Homework 1
 uid: 43bd67c4-80f7-b0ab-0c21-77815bbf320d
 ---
 This file contains information regarding Kitchen Chemistry Homework 1.
-

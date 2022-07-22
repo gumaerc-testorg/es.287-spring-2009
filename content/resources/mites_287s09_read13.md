@@ -5,6 +5,7 @@ file: /courses/es-287-kitchen-chemistry-spring-2009/ef44f422caaa171c62c54a9c5a9b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Liquid Nitrogen Ice Cream
 uid: ef44f422-caaa-171c-62c5-4a9c5a9b1716
 ---
 This file contains information regarding Liquid Nitrogen Ice Cream.
-

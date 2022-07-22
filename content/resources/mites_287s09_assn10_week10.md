@@ -5,6 +5,7 @@ file: /courses/es-287-kitchen-chemistry-spring-2009/d116d94dead8b67baf3b8bad7d71
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Kitchen Chemistry Homework 10
 uid: d116d94d-ead8-b67b-af3b-8bad7d710af0
 ---
 This file contains information regarding Kitchen Chemistry Homework 10.
-

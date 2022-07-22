@@ -5,6 +5,7 @@ file: /courses/es-287-kitchen-chemistry-spring-2009/e7d4615f3fb0a2a7d7733cc68ac4
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Strawberry Jam
 uid: e7d4615f-3fb0-a2a7-d773-3cc68ac40cde
 ---
 This file contains information regarding Strawberry Jam
-

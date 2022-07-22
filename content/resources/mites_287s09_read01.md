@@ -5,6 +5,7 @@ file: /courses/es-287-kitchen-chemistry-spring-2009/5152417816e0e6a81da8d4c4d7d0
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Guacamole
 uid: 51524178-16e0-e6a8-1da8-d4c4d7d039e1
 ---
 This file contains information regarding Guacamole.
-

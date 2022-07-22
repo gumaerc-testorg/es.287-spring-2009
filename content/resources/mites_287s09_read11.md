@@ -5,6 +5,7 @@ file: /courses/es-287-kitchen-chemistry-spring-2009/1d3f29a82d721b9587f4957e9eaf
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Molecular Gastronomy experiments
 uid: 1d3f29a8-2d72-1b95-87f4-957e9eaf560d
 ---
 This file contains information regarding Molecular Gastronomy experiments.
-
