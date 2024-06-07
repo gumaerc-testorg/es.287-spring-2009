@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding Guacamole.
 file: /courses/es-287-kitchen-chemistry-spring-2009/5152417816e0e6a81da8d4c4d7d039e1_MITES_287S09_read01.pdf
+file_size: 134874
 file_type: application/pdf
 learning_resource_types:
 - Readings

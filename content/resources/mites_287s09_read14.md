@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding Beef Meatballs.
 file: /courses/es-287-kitchen-chemistry-spring-2009/ff07873fda253a492155060c2713f993_MITES_287S09_read14.pdf
+file_size: 139111
 file_type: application/pdf
 learning_resource_types:
 - Readings

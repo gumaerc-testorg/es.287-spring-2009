@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding Marinara Saucse
 file: /courses/es-287-kitchen-chemistry-spring-2009/f55ce8912d7a47ba635e46cac466f92d_MITES_287S09_read15.pdf
+file_size: 142195
 file_type: application/pdf
 learning_resource_types:
 - Readings
