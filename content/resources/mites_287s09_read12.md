@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding Wacky Cake.
 file: /courses/es-287-kitchen-chemistry-spring-2009/4432388fcaf5e3e93dc62e36bae51f2d_MITES_287S09_read12.pdf
+file_size: 99168
 file_type: application/pdf
 learning_resource_types:
 - Readings

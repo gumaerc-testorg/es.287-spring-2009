@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding Liquid Nitrogen Ice Cream.
 file: /courses/es-287-kitchen-chemistry-spring-2009/ef44f422caaa171c62c54a9c5a9b1716_MITES_287S09_read13.pdf
+file_size: 127489
 file_type: application/pdf
 learning_resource_types:
 - Readings
