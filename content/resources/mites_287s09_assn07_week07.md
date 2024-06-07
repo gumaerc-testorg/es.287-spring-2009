@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding Kitchen Chemistry Homework 7.
 file: /courses/es-287-kitchen-chemistry-spring-2009/6872d6801effcffa07e75ec4f66edf3c_MITES_287S09_assn07_Week07.pdf
+file_size: 86644
 file_type: application/pdf
 learning_resource_types:
 - Assignments

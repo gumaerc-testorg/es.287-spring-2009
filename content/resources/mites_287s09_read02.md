@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding salsa.
 file: /courses/es-287-kitchen-chemistry-spring-2009/f88ee1d01cb17bc4a7a8f851f5407786_MITES_287S09_read02.pdf
+file_size: 97520
 file_type: application/pdf
 learning_resource_types:
 - Readings
