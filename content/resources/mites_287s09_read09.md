@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Three Bean Chili.
-file: /courses/es-287-kitchen-chemistry-spring-2009/2621e4239a3b013a7020b94fd9a62a27_MITES_287S09_read09.pdf
+file: /ol-ocw-studio-app/courses/es-287-kitchen-chemistry-spring-2009/2621e4239a3b013a7020b94fd9a62a27_MITES_287S09_read09.pdf
 file_size: 124245
 file_type: application/pdf
 learning_resource_types:
