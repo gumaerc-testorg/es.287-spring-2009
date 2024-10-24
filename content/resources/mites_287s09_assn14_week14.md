@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Kitchen Chemistry Homework 14.
-file: /courses/es-287-kitchen-chemistry-spring-2009/d26aa52bd304f444335e4b4fb1f0a593_MITES_287S09_assn14_Week14.pdf
+file: /ol-ocw-studio-app/courses/es-287-kitchen-chemistry-spring-2009/d26aa52bd304f444335e4b4fb1f0a593_MITES_287S09_assn14_Week14.pdf
 file_size: 86428
 file_type: application/pdf
 learning_resource_types:
