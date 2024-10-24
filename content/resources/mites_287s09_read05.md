@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding challah.
-file: /courses/es-287-kitchen-chemistry-spring-2009/1d65750b84d8286ff0ae1c62448a253b_MITES_287S09_read05.pdf
+file: /ol-ocw-studio-app/courses/es-287-kitchen-chemistry-spring-2009/1d65750b84d8286ff0ae1c62448a253b_MITES_287S09_read05.pdf
 file_size: 150363
 file_type: application/pdf
 learning_resource_types:
