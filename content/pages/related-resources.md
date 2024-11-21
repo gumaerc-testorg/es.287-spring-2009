@@ -19,13 +19,13 @@ Additional readings, organized by topic:
 ## Cookie – Death by {{< anchor "Chocolate" >}}{{< /anchor >}}Chocolate
 
 - Shopping for Chocolate
-    - Chocolate is being made in Hawaii. Learn some fun facts about [vintage chocolate](http://www.hawaiianchocolate.com/)
+    - Chocolate is being made in Hawaii. Learn some fun facts about [vintage chocolate](https://cocoarunners.com/chocopedia/vintage-chocolate/)
 - Processing the cocoa bean
     - [Where does chocolate come from?](http://www.exploratorium.edu/exploring/exploring_chocolate/choc_2.html)
     - [Botanical classification of the cocoa plant](http://www.xocoatl.org/science.htm)
     - [How are the cocoa beans processed to make chocolate?](http://www.foodsci.uoguelph.ca/deicon/chocolate.gif)
 - Chocolate Classifications
-    - [Do you know the differences between the types of chocolate?](http://www.finecooking.com/articles/sorting-out-chocolate.aspx)
+    - [Do you know the differences between the types of chocolate?](https://www.lakechamplainchocolates.com/types-of-chocolate/)
     - [What is the difference between natural and dutch processed cocoa?](http://www.joyofbaking.com/cocoa.html)
 - Chocolate and the Brain
     - [Why do we crave chocolate?](http://www.exploratorium.edu/exploring/exploring_chocolate/choc_8.html)
@@ -63,7 +63,6 @@ Additional readings, organized by topic:
     - Did you know that there is an [International Gluten Workshop?](http://cereals2018.cimmyt.org/13th-international-gluten-workshop/)
 - Information on Salt
     - [Salt facts](http://www.cooksrecipes.com/tips/salt.html)
-    - [This is what people who watch too much Food Network dream about!](http://www.saltworks.us/salt_info/si_gourmet_reference.asp)
     - Instructions for the salt tasting:
         - Onto a slice of bread (we will be using a baguette or unsalted soda cracker), put some unsalted butter.
         - Sprinkle your salt of choice
@@ -94,14 +93,14 @@ Additional readings, organized by topic:
     - [More tips on meringues](http://www.funandfoodcafe.com/2008/08/recipe-meringue-baking-perfect-tips.html)
     - [All about eggs](http://www.healthxchange.com.sg/healthyliving/DietandNutrition/Pages/All-About-Eggs.aspx)
 - Fun sites
-    - Did you know there is an [American Egg Board?](http://www.aeb.org/)
+    - Did you know there is an [American Egg Board?](https://www.incredibleegg.org/)
 
 ## {{< anchor "Jams" >}}{{< /anchor >}}Jams and Jellies
 
 - [Step by step procedures of canning](https://www.midwestliving.com/food/step-by-step-guide-to-canning/)
 - [History of jam](https://outonalimbonline.com/)
 - [Scientific writings on jam making](http://www.exploratorium.edu/cooking/icooks/article_6-03.html)
-- [Short history of jam making](https://life.spectator.co.uk/articles/jam-beautifully-preserved-history/)
+- [Short history of jam making](https://www.chenabgourmet.com/the-sweet-history-of-jams-from-ancient-greece-to-modern-times/#:~:text=Jams%20have%20their%20origins%20in,and%20berries%20for%20winter%20use.)
 
 ## {{< anchor "Chili" >}}{{< /anchor >}}Chili and Cornbread
 
@@ -111,7 +110,7 @@ Additional readings, organized by topic:
     - What's [Beano?](http://www.beanogas.com/)
 - Asparagus, beets, and artichokes
     - We will also be tasting beets, asparagus and artichokes. For these experiments we need to drink a glass of water, then eat either beets or asparagus. For the artichokes, drink some water, eat the artichoke and then drink some more water. Do you notice any difference in the water?
-    - [Medical case study](http://allergyadvisor.com/Educational/April03.htm) (everything you did not want to know about your water output)
+    - [Medical case study](https://pubmed.ncbi.nlm.nih.gov/11892615/) (everything you did not want to know about your water output)
     - [Asparagus board of Michigan](http://www.asparagus.org/)
 
 ## {{< anchor "Cheese" >}}{{< /anchor >}}Cheese
@@ -125,7 +124,7 @@ Additional readings, organized by topic:
 
 ## {{< anchor "Molecular" >}}{{< /anchor >}}Molecular Gastronomy
 
-- What exactly is molecular gastronomy - one definition is [here](http://www.cookingwithcolor.com/molecular_gastronomy.htm) another definition is [here](http://en.wikipedia.org/wiki/Molecular_gastronomy).
+- What exactly is molecular gastronomy - one definition is [here](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/molecular-gastronomy#:~:text=Molecular%20gastronomy%2C%20or%20progressive%20cuisine,and%20physical%20processes%20of%20cooking.) another definition is [here](http://en.wikipedia.org/wiki/Molecular_gastronomy).
 - For a link to a slide show of cool molecular gastronomy experiments by Chef Wylie Dufresne go [here](http://www.nytimes.com/slideshow/2007/11/05/science/20071106_FOOD_SLIDESHOW_index.html?ex=1195016400&en=6b92d76859790553&ei=5070&emc=eta3).
 - Interested in learning more about experimental cuisine, go [here](http://experimentalcuisine.googlepages.com/).
 
