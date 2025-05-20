@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Lemon Cheese.
-file: /ol-ocw-studio-app/courses/es-287-kitchen-chemistry-spring-2009/9a39154c55d7f66b3d690902a74236ce_MITES_287S09_read10.pdf
+file: /courses/es-287-kitchen-chemistry-spring-2009/9a39154c55d7f66b3d690902a74236ce_MITES_287S09_read10.pdf
 file_size: 98596
 file_type: application/pdf
 learning_resource_types:
