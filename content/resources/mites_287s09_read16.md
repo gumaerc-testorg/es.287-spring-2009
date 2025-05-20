@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Creme Brulee.
-file: /ol-ocw-studio-app/courses/es-287-kitchen-chemistry-spring-2009/8a90b7bea8d85f7f7d092f4542a5839e_MITES_287S09_read16.pdf
+file: /courses/es-287-kitchen-chemistry-spring-2009/8a90b7bea8d85f7f7d092f4542a5839e_MITES_287S09_read16.pdf
 file_size: 96114
 file_type: application/pdf
 learning_resource_types:

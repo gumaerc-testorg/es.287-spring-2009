@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Molecular Gastronomy experiments.
-file: /ol-ocw-studio-app/courses/es-287-kitchen-chemistry-spring-2009/1d3f29a82d721b9587f4957e9eaf560d_MITES_287S09_read11.pdf
+file: /courses/es-287-kitchen-chemistry-spring-2009/1d3f29a82d721b9587f4957e9eaf560d_MITES_287S09_read11.pdf
 file_size: 127012
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Kitchen Chemistry Homework 11.
-file: /ol-ocw-studio-app/courses/es-287-kitchen-chemistry-spring-2009/d15e7066e811f273de7d8c01b3366c39_MITES_287S09_assn11_Week11.pdf
+file: /courses/es-287-kitchen-chemistry-spring-2009/d15e7066e811f273de7d8c01b3366c39_MITES_287S09_assn11_Week11.pdf
 file_size: 86794
 file_type: application/pdf
 learning_resource_types:
