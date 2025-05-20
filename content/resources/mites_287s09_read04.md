@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Buttermilk Pancakes.
-file: /ol-ocw-studio-app/courses/es-287-kitchen-chemistry-spring-2009/1be104f123ad4e1fee86531e055cdd40_MITES_287S09_read04.pdf
+file: /courses/es-287-kitchen-chemistry-spring-2009/1be104f123ad4e1fee86531e055cdd40_MITES_287S09_read04.pdf
 file_size: 97623
 file_type: application/pdf
 learning_resource_types:
