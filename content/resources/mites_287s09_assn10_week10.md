@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Kitchen Chemistry Homework 10.
-file: /courses/es-287-kitchen-chemistry-spring-2009/d116d94dead8b67baf3b8bad7d710af0_MITES_287S09_assn10_Week10.pdf
+file: /ol-ocw-studio-app/courses/es-287-kitchen-chemistry-spring-2009/d116d94dead8b67baf3b8bad7d710af0_MITES_287S09_assn10_Week10.pdf
 file_size: 87467
 file_type: application/pdf
 learning_resource_types:
