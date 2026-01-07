@@ -27,7 +27,7 @@ Welcome to the seminar entitled Kitchen Chemistry. This is a Pass/Fail, 6-unit s
 
 MIT chemist Patricia Christie discusses her course, "Kitchen Chemistry," and how it makes students look at their food differently.
 
-This video is from the {{% resource_link "158c205b-5677-4c00-8799-184dd3959ec0" "MITNewsOffice" %}} via YouTube, and is not covered under our [Creative Commons license](/terms/#cc).
+This video is from the [MITNewsOffice](http://www.youtube.com/profile?user=MITNewsOffice) via YouTube, and is not covered under our [Creative Commons license](/terms/#cc).
 
 Requirements
 ------------
